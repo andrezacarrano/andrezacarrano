@@ -33,5 +33,5 @@ Sou **profissional de Finanças** com sólida experiência em **análise finance
 💬 “Transformar dados em decisões é a ponte entre a informação e o impacto real nos negócios.”
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrezacarrano)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrezacarrano&show_icons=true&theme=radical)
 
