@@ -1,25 +1,32 @@
-# 👋 Olá! Eu sou a Andreza Carrano  
+### 📊 Analista de Dados | Especialista em Finanças & Controladoria
 
-Sou **profissional de Finanças** com sólida experiência em **análise financeira, planejamento orçamentário e controle de custos**, adquirida em empresas de grande porte como **ZF do Brasil**, **Coca-Cola (Sorocaba Refrescos)** e **Grupo Petrópolis**.  
-
-🎓 Formada em **Administração com Ênfase em Finanças** pela **ESAMC** e pós-graduada em **Gestão Financeira, Controle e Auditoria** pela **Fundação Getulio Vargas (FGV)**, desenvolvi uma carreira voltada à **otimização de processos financeiros e apoio à tomada de decisão estratégica**.  
-
-💡 Atualmente, estou em **transição de carreira para a área de Análise de Dados**, unindo minha bagagem em finanças à capacidade de extrair **insights valiosos a partir de dados**. Tenho interesse especial em **Business Intelligence (BI), Data Analytics e Data-Driven Finance**.  
+Sou uma profissional com mais de 10 anos de experiência sólida em **Finanças e Controladoria** (passagens por ZF do Brasil, Coca-Cola e Grupo Petrópolis), atualmente em **transição de carreira para a área de Dados**. Meu diferencial é unir a visão estratégica de negócios e KPIs financeiros à capacidade técnica de extrair insights valiosos através da tecnologia.
 
 ---
 
-### 🚀 O que estou fazendo atualmente
-- Desenvolvendo projetos de **análise de dados financeiros** com **Python** e **Power BI**.  
-- Aprimorando habilidades em **Ciência de Dados, Estatística e Machine Learning**.  
-- Aplicando metodologias de **melhoria contínua e automação de processos financeiros**.  
+### 🛠️ Tecnologias e Ferramentas
+
+* **Linguagens & Banco de Dados:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL (PostgreSQL).
+* **Visualização de Dados:** Tableau, Power BI, Google Data Studio.
+* **Gestão & ERP:** SAP, Excel Avançado (VBA/Power Query).
+* **Análise de Negócio:** Planejamento Orçamentário (Budget/Forecast), KPIs, Gestão de Custos e Auditoria.
 
 ---
 
-### 🎯 Interesses profissionais
-- **Análise de Dados e Business Intelligence (BI)**  
-- **Finanças Corporativas e Planejamento Orçamentário**  
-- **Otimização de Processos e Eficiência Operacional**  
-- **Automação e Visualização de Dados (Power BI, Python, Excel Avançado)**  
+### 🚀 Meus Principais Projetos (TripleTen Bootcamp)
+
+Aqui estão alguns dos desafios que resolvi aplicando análise de dados a problemas de negócio:
+
+* **[Nome do seu melhor projeto]:** [Uma frase rápida do que resolveu]. Ex: Análise exploratória de dados para identificação de churn utilizando Python.
+* **[Nome do segundo melhor projeto]:** Ex: Criação de dashboard interativo no Tableau para acompanhamento de métricas de vendas.
+
+---
+
+### 🎓 Formação & Especializações
+
+* **Data Analyst Bootcamp** – TripleTen (Em curso)
+* **MBA em Gestão Financeira, Controle e Auditoria** – Fundação Getulio Vargas (FGV)
+* **Bacharelado em Administração (Finanças)** – ESAMC
 
 ---
 
