@@ -1,6 +1,10 @@
 ### 📊 Analista de Dados | Especialista em Finanças & Controladoria
 
-Sou uma profissional com mais de 10 anos de experiência sólida em **Finanças e Controladoria** (passagens por ZF do Brasil, Coca-Cola e Grupo Petrópolis), atualmente em **transição de carreira para a área de Dados**. Meu diferencial é unir a visão estratégica de negócios e KPIs financeiros à capacidade técnica de extrair insights valiosos através da tecnologia.
+Sou uma profissional com mais de 10 anos de experiência sólida em **Finanças e Controladoria** (passagens por ZF do Brasil, Coca-Cola e Grupo Petrópolis).
+
+Atualmente, estou a unir a minha visão estratégica de negócio e KPIs financeiros à capacidade técnica de extrair inteligência preditiva através da **Análise de Dados**.
+
+Meu diferencial é unir a visão estratégica de negócios e KPIs financeiros à capacidade técnica de extrair insights valiosos através da tecnologia.
 
 ---
 
@@ -13,12 +17,14 @@ Sou uma profissional com mais de 10 anos de experiência sólida em **Finanças 
 
 ---
 
-### 🚀 Meus Principais Projetos (TripleTen Bootcamp)
+### 🚀 Projetos em Destaque (Portfolio)
 
-Aqui estão alguns dos desafios que resolvi aplicando análise de dados a problemas de negócio:
+Aqui estão os principais projetos desenvolvidos durante o meu percurso na **TripleTen**:
 
-* **[Nome do seu melhor projeto]:** [Uma frase rápida do que resolveu]. Ex: Análise exploratória de dados para identificação de churn utilizando Python.
-* **[Nome do segundo melhor projeto]:** Ex: Criação de dashboard interativo no Tableau para acompanhamento de métricas de vendas.
+* **[Marketing ROI & Cohort Analysis](https://github.com/andrezacarrano/marketing-investment-optimization-cohort-analysis):** Otimização de despesas de marketing através de análise de retenção e rentabilidade (LTV/CAC).
+* **[Revenue Optimization: A/B Testing](https://github.com/andrezacarrano/revenue-optimization-hypothesis-prioritization-ab-testing):** Priorização de hipóteses de negócio via frameworks ICE/RICE e validação estatística de testes A/B.
+* **[Automotive Market Web Dashboard](https://github.com/andrezacarrano/automotive-market-web-dashboard):** Implementação de uma aplicação web interativa em nuvem utilizando Streamlit e Plotly.
+* **[Chicago Taxi Mobility Analysis](https://github.com/andrezacarrano/chicago-taxi-mobility-analysis):** Extração de dados via SQL e análise do impacto climático na duração das viagens urbanas.
 
 ---
 
