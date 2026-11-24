@@ -44,7 +44,7 @@ Bachelor's Degree in Business Administration, Finance – ESAMC Sorocaba
 ### 📫 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/andreza-carrano)  
 - ✉️ **dezacarrano@gmail.com**  
-- 📍 Almada, Portugal  
+- 📍 Arlon, Belgium
 
 ---
 
