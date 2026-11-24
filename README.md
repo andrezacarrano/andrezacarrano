@@ -1,49 +1,54 @@
-### 📊 Analista de Dados | Especialista em Finanças & Controladoria
+📊 Data Analyst | Finance & Business Controlling Specialist
 
-Sou uma profissional com mais de 10 anos de experiência sólida em **Finanças e Controladoria** (passagens por ZF do Brasil, Coca-Cola e Grupo Petrópolis).
+I am a professional with over 10 years of solid experience in Finance and Business Controlling, having worked with companies such as ZF do Brasil, Sorocaba Refrescos (Coca-Cola bottler), and Grupo Petrópolis.
 
-Atualmente, estou a unir a minha visão estratégica de negócio e KPIs financeiros à capacidade técnica de extrair inteligência preditiva através da **Análise de Dados**.
+I am now combining my strategic business perspective and financial KPI expertise with technical skills in Data Analytics to transform data into meaningful insights.
 
-Meu diferencial é unir a visão estratégica de negócios e KPIs financeiros à capacidade técnica de extrair insights valiosos através da tecnologia.
-
----
-
-### 🛠️ Tecnologias e Ferramentas
-
-* **Linguagens & Banco de Dados:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL (PostgreSQL).
-* **Visualização de Dados:** Tableau, Power BI, Google Data Studio.
-* **Gestão & ERP:** SAP, Excel Avançado (VBA/Power Query).
-* **Análise de Negócio:** Planejamento Orçamentário (Budget/Forecast), KPIs, Gestão de Custos e Auditoria.
+My competitive advantage lies in bridging business strategy and technical data analysis, turning complex information into actionable insights that support better business decisions.
 
 ---
 
-### 🚀 Projetos em Destaque (Portfolio)
+🛠️ Technologies & Tools
 
-Aqui estão os principais projetos desenvolvidos durante o meu percurso na **TripleTen**:
+Programming & Databases: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL (PostgreSQL).
 
-* **[Marketing ROI & Cohort Analysis](https://github.com/andrezacarrano/marketing-investment-optimization-cohort-analysis):** Otimização de despesas de marketing através de análise de retenção e rentabilidade (LTV/CAC).
-* **[Revenue Optimization: A/B Testing](https://github.com/andrezacarrano/revenue-optimization-hypothesis-prioritization-ab-testing):** Priorização de hipóteses de negócio via frameworks ICE/RICE e validação estatística de testes A/B.
-* **[Automotive Market Web Dashboard](https://github.com/andrezacarrano/automotive-market-web-dashboard):** Implementação de uma aplicação web interativa em nuvem utilizando Streamlit e Plotly.
-* **[Chicago Taxi Mobility Analysis](https://github.com/andrezacarrano/chicago-taxi-mobility-analysis):** Extração de dados via SQL e análise do impacto climático na duração das viagens urbanas.
+Data Visualization: Tableau, Power BI, Google Data Studio.
 
----
+Management & ERP: SAP, Advanced Excel (VBA / Power Query).
 
-### 🎓 Formação & Especializações
-
-* **Data Analyst Bootcamp** – TripleTen (Em curso)
-* **MBA em Gestão Financeira, Controle e Auditoria** – Fundação Getulio Vargas (FGV)
-* **Bacharelado em Administração (Finanças)** – ESAMC
+Business Analytics: Budget Planning (Budget/Forecast), KPIs, Cost Management, and Auditing.
 
 ---
 
-### 📫 Vamos nos conectar
+🚀 Featured Projects (Portfolio)
+
+Here are some of the key projects developed during my TripleTen Data Analytics Bootcamp:
+
+* **[Marketing ROI & Cohort Analysis](https://github.com/andrezacarrano/marketing-investment-optimization-cohort-analysis):** Marketing investment optimization through customer retention and profitability analysis (LTV/CAC).
+* **[Revenue Optimization: A/B Testing](https://github.com/andrezacarrano/revenue-optimization-hypothesis-prioritization-ab-testing):** Business hypothesis prioritization using ICE/RICE frameworks and statistical validation of A/B testing results.
+* **[Automotive Market Web Dashboard](https://github.com/andrezacarrano/automotive-market-web-dashboard):** Development and deployment of an interactive cloud-based web application using Streamlit and Plotly.
+* **[Chicago Taxi Mobility Analysis](https://github.com/andrezacarrano/chicago-taxi-mobility-analysis):** SQL data extraction and analysis of weather conditions and their impact on urban trip duration.
+
+---
+
+🎓 Education & Certifications
+
+Data Analytics Bootcamp – TripleTen (Completed, 2026)
+
+MBA in Financial Management, Controlling and Auditing – Fundação Getulio Vargas (FGV)
+
+Bachelor's Degree in Business Administration, Finance – ESAMC Sorocaba
+
+---
+
+### 📫 Let's Connect
 - 💼 [LinkedIn](https://www.linkedin.com/in/andreza-carrano)  
 - ✉️ **dezacarrano@gmail.com**  
 - 📍 Almada, Portugal  
 
 ---
 
-💬 “Transformar dados em decisões é a ponte entre a informação e o impacto real nos negócios.”
+💬 "Turning data into decisions is the bridge between information and real business impact."
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrezacarrano&show_icons=true&theme=radical)
