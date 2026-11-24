@@ -52,6 +52,7 @@ Here are some of the key projects developed during my **TripleTen Data Analytics
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrezacarrano-dados/)
+
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dezacarrano@gmail.com)
 
 ---
@@ -69,17 +70,17 @@ Here are some of the key projects developed during my **TripleTen Data Analytics
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrezacarrano&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andrezacarrano&theme=dark&hide_border=false)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=andrezacarrano&theme=dark&hide_border=false)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=andrezacarrano&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrezacarrano&theme=dark&hide_border=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andrezacarrano&theme=dark&layout=compact)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=andrezacarrano&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=andrezacarrano&theme=radical&no-frame=true&margin-w=4)
 
 ---
 
@@ -94,7 +95,7 @@ Here are some of the key projects developed during my **TripleTen Data Analytics
 ![Top Contributed Repositories](https://github-contributor-stats.vercel.app/api?username=andrezacarrano&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=andrezacarrano&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://visitcount.itsvg.in/api?id=andrezacarrano&icon=0&color=0)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
